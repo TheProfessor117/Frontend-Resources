@@ -274,9 +274,10 @@ Overall my suggestion is just search and follow the people who's Blogs articles 
 - [Dan Wahlin's Blog](https://weblogs.asp.net/dwahlin)
     + Another awesome blog for javascript tutorials
     + He covers everything from AngularJS to Core Javascript such as ES6
-- [Rob Eisenberg's Blog](http://eisenbergeffect.bluespire.com/)
-    +  Rob discusses his new framework [Aurelia](#aurelia)
-    +  He also compares Aurelia to other frameworks such as Angular 2 and his experiences working on Angular 2 and why he decided to leave.
+- [Scaler's Blog](https://www.scaler.com/blog/front-end-developer-roadmap/)
+    + "Scaler Academy is an online transformative upskilling platform for working tech professionals." - scaler.com/about
+    + This site has numerous blogs on frontend, backend, DevOps, ML, data science, etc.
+    + I've linked above to a roadmap blog for frontend developers.
 
 #Books
 Here are some of the books I've found super useful.
